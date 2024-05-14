@@ -10,6 +10,7 @@ Technologies Used: M.E.R.N (MongoDB, Express, React, Node.Js), Tailwind , DaisyU
 
 GitHub Repository: https://github.com/Ratchatrin/Shop.
 
+Link:  https://the-brand-shop.onrender.com/
 _________________________________________________________________________________________________
 Project Name: recipes
 
@@ -18,6 +19,8 @@ Description: Website to help you cook with 30 recipes
 Technologies Used: React, Tailwind , DaisyUI.
 
 GitHub Repository: https://github.com/Ratchatrin/recipes.
+
+Link:  https://recipes-69t.pages.dev/
 _________________________________________________________________________________________________
 
 Contact
