@@ -23,6 +23,17 @@ GitHub Repository: https://github.com/Ratchatrin/recipes.
 
 Link:  https://recipes-69t.pages.dev/
 _________________________________________________________________________________________________
+Project Name: Th Red Cafe
+
+Description:  The Red Café project is a sophisticated web application designed to streamline the reservation process for a bustling, vibrant eatery. 
+Leveraging the powerful MERN stack, this project ensures a seamless and efficient user experience for customers.
+
+Technologies Used:  M.E.R.N (MongoDB, Express, React, Node.Js), Tailwind , DaisyUI.
+
+GitHub Repository: https://github.com/Ratchatrin/reservation.
+
+Link:  https://reservation-1-qq41.onrender.com
+_________________________________________________________________________________________________
 
 Contact
 📫 Email : Ratchatrin12@hotmail.com
