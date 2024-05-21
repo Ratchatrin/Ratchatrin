@@ -12,6 +12,7 @@ GitHub Repository: https://github.com/Ratchatrin/Shop.
 
 Link:  https://the-brand-shop.onrender.com/
 
+** It takes 50 seconds to load the data. **
 _________________________________________________________________________________________________
 Project Name: Food Recipes
 
@@ -34,6 +35,8 @@ Technologies Used:  M.E.R.N (MongoDB, Express, React, Node.Js), Tailwind , Daisy
 GitHub Repository: https://github.com/Ratchatrin/reservation.
 
 Link:  https://reservation-1-qq41.onrender.com
+
+** It takes 50 seconds to load the data. **
 _________________________________________________________________________________________________
 
 Contact
