@@ -35,9 +35,6 @@ Link:  https://reservation-1-qq41.onrender.com
 
 ** It takes 50 seconds to load the data. **
 _________________________________________________________________________________________________
-
-** In progress **
-
 Project : Beat By Dr.Dre
 
 Description: A fully functional e-commerce platform that offers users a seamless shopping experience. The website features product listings, a shopping cart. 
@@ -47,7 +44,9 @@ Technologies Used: M.E.R.N (MongoDB, Express, React, Node.Js), Tailwind , DaisyU
 
 GitHub Repository: https://github.com/Ratchatrin/BeatShop.
 
-Link:  ""
+Link:  "https://beatshop-1.onrender.com/"
+
+** It takes 50 seconds to load the data. **
 _________________________________________________________________________________________________
 
 Contact
