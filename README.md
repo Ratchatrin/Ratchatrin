@@ -23,7 +23,7 @@ Technologies Used: M.E.R.N (MongoDB, Express, React, Node.Js), Tailwind , DaisyU
 
 GitHub Repository: https://github.com/Ratchatrin/BeatShop.
 
-Link:  "https://beatshop-1.onrender.com/"
+Link:  https://beatshop-1.onrender.com/
 
 ** It takes 50 seconds to load the data. **
 _________________________________________________________________________________________________
