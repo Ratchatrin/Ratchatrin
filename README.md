@@ -13,6 +13,20 @@ Link:  https://the-brand-shop.onrender.com/
 
 ** It takes 50 seconds to load the data. **
 _________________________________________________________________________________________________
+Project : Beat By Dr.Dre
+
+Description: A fully functional e-commerce platform that offers users a seamless shopping experience. The website features product listings, a shopping cart. Designed with a modern, responsive layout to ensure usability across all devices.
+
+Designed with a modern, responsive layout to ensure usability across all devices.
+
+Technologies Used: M.E.R.N (MongoDB, Express, React, Node.Js), Tailwind , DaisyUI.
+
+GitHub Repository: https://github.com/Ratchatrin/BeatShop.
+
+Link:  "https://beatshop-1.onrender.com/"
+
+** It takes 50 seconds to load the data. **
+_________________________________________________________________________________________________
 Project Name: Food Recipes
 
 Description:  A culinary website that provides users with 30 easy-to-follow recipes. Each recipe includes detailed instructions and ingredient lists, making it simple for users to cook delicious meals at home. The site is designed with a clean, intuitive interface for an enhanced user experience.
@@ -35,19 +49,7 @@ Link:  https://reservation-1-qq41.onrender.com
 
 ** It takes 50 seconds to load the data. **
 _________________________________________________________________________________________________
-Project : Beat By Dr.Dre
 
-Description: A fully functional e-commerce platform that offers users a seamless shopping experience. The website features product listings, a shopping cart. 
-Designed with a modern, responsive layout to ensure usability across all devices.
-
-Technologies Used: M.E.R.N (MongoDB, Express, React, Node.Js), Tailwind , DaisyUI.
-
-GitHub Repository: https://github.com/Ratchatrin/BeatShop.
-
-Link:  "https://beatshop-1.onrender.com/"
-
-** It takes 50 seconds to load the data. **
-_________________________________________________________________________________________________
 
 Contact
 📫 Email : Ratchatrin12@hotmail.com
